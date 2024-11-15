@@ -5,3 +5,5 @@ This repository contains Machine learning and deep learning project
 
 
 - [Predict Customer Churn with Python](https://github.com/ismailehasan1/Portfolio-Project---Data-Science---Python/blob/231ec2de21b8e5037ae981b014846aff90cd54fb/Predict_Customer_Churn.ipynb) : Customer churn (also known as customer attrition) is the loss of clients or customers. It is most commonly expressed as the percentage of service subscribers who discontinue their subscriptions within a given time period. In this project, we will build a machine learning model to predict customer churn.
+
+- [Rainfall in Australia](https://github.com/ismailehasan1/Portfolio-Project---Data-Science---Python/blob/99fd45ccc30db2234e644328f47ca978fd464ddd/Rainfall_in_Australia.ipynb) Rainfall is a critical factor influencing various aspects of human life. To better understand and predict rainfall patterns, I developed a binary classification model using Logistic Regression. This model aims to forecast whether it will rain in Australia on a specific day. I employed the "Rain in Australia" dataset and the powerful Scikit-learn library in Python to train and evaluate the model.
